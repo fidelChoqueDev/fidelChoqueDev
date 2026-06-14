@@ -1,9 +1,11 @@
 <h1><img width="90" height="90" alt="DevCrash" src="https://github.com/user-attachments/assets/bf8ceb6f-7e8c-4467-bbd4-caf5a7b0cdbc" />Hi 👋, I'm Fidel</h1>
 <p>A passionate frontend developer from </p>
 <h4 align="center">Visitor's count 👀</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="center"><img src="https://counter.kuber.studio/fidelChoqueDev/flip-clock/count.svg" alt="Profile views" />
 <br/>
 <h3 align="left">Connect with me:</h3>
+  
 - 📫 How to reach me **devcrash03@gmail.com**
 - ⚡ Fun fact **I am a programmer who works as a driver**
 <p align="left">
