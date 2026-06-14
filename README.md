@@ -34,6 +34,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fidelChoqueDev&show_icons=true&locale=en" alt="fidelChoqueDev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fidelChoqueDev&" alt="fidelChoqueDev" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fidelChoqueDev&show_icons=true&locale=en&layout=compact" alt="fidelChoqueDev" /></p>
+<!--
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fidelChoqueDev" alt="fidelChoqueDev" /></a></p>
 <!--
 **fidelChoqueDev/fidelChoqueDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
