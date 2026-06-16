@@ -1,4 +1,4 @@
-<h1><img width="90" height="90" alt="DevCrash" src="https://github.com/user-attachments/assets/bf8ceb6f-7e8c-4467-bbd4-caf5a7b0cdbc" />Hi 👋, I'm Fidel</h1>
+<h1 align="center"><img width="639" height="215" alt="banner fidel" src="https://github.com/user-attachments/assets/f29491fb-f631-43eb-ae4e-dc64f11f7b9f" /></h1>
 <p>A passionate frontend developer from </p>
 <h4 align="center">Visitor's count 👀</h4>
 <h3 align="left">Connect with me:</h3>
